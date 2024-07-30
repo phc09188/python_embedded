@@ -1,0 +1,273 @@
+ INFO 2024-07-18T15:52:30.333 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  03  00  00  00  cb  01  03  c8  01  f4  00  c8  0b  b8  01  90  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:52:30.336 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:52:30.337 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  3 , errors =  0 
+ INFO 2024-07-18T15:52:34.666 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:52:34.666 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:52:34.667 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:52:34.667 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  04  00  00  00  06  02  03  00  63  00  64  " 
+ INFO 2024-07-18T15:52:34.668 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  04  00  00  00  cb  02  03  c8  01  f4  00  c8  0b  b8  01  90  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:52:34.668 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:52:34.669 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  4 , errors =  0 
+ INFO 2024-07-18T15:52:36.156 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:52:36.156 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:52:36.156 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:52:36.157 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  05  00  00  00  06  02  03  00  63  00  64  " 
+ INFO 2024-07-18T15:52:36.158 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  05  00  00  00  cb  02  03  c8  01  f4  00  c8  0b  b8  01  90  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:52:36.158 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:52:36.158 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  5 , errors =  0 
+ INFO 2024-07-18T15:52:38.561 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:52:38.561 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:52:38.561 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:52:38.561 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  06  00  00  00  06  03  03  00  63  00  64  " 
+ INFO 2024-07-18T15:52:38.563 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  06  00  00  00  cb  03  03  c8  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:52:38.563 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:52:38.564 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  6 , errors =  0 
+ INFO 2024-07-18T15:52:41.718 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:52:41.718 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:52:41.719 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:52:41.719 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  07  00  00  00  06  04  03  00  63  00  64  " 
+ INFO 2024-07-18T15:52:41.720 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  07  00  00  00  cb  04  03  c8  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:52:41.720 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:52:41.721 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  7 , errors =  0 
+ INFO 2024-07-18T15:53:26.833 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:53:26.833 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:53:26.833 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:53:26.833 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  08  00  00  00  06  04  03  00  63  00  64  " 
+ INFO 2024-07-18T15:53:26.834 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  08  00  00  00  cb  04  03  c8  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:53:26.835 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:53:26.835 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  8 , errors =  0 
+ INFO 2024-07-18T15:53:28.814 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:53:28.814 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:53:28.814 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:53:28.814 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  09  00  00  00  06  01  03  00  63  00  64  " 
+ INFO 2024-07-18T15:53:28.815 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  09  00  00  00  cb  01  03  c8  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:53:28.816 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:53:28.816 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  9 , errors =  0 
+ INFO 2024-07-18T15:53:41.705 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:53:41.705 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:53:41.705 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:53:41.705 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  0a  00  00  00  06  02  03  00  63  00  64  " 
+ INFO 2024-07-18T15:53:41.706 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  0a  00  00  00  cb  02  03  c8  00  0a  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:53:41.706 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:53:41.706 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  10 , errors =  0 
+ INFO 2024-07-18T15:53:43.334 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:53:43.335 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:53:43.335 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:53:43.335 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  0b  00  00  00  06  02  03  00  63  00  64  " 
+ INFO 2024-07-18T15:53:43.336 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  0b  00  00  00  cb  02  03  c8  00  0a  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:53:43.336 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:53:43.337 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  11 , errors =  0 
+ INFO 2024-07-18T15:53:46.426 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:53:46.426 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:53:46.426 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:53:46.426 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  0c  00  00  00  06  03  03  00  63  00  64  " 
+ INFO 2024-07-18T15:53:46.427 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  0c  00  00  00  cb  03  03  c8  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:53:46.427 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:53:46.428 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  12 , errors =  0 
+ INFO 2024-07-18T15:53:47.745 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:53:47.746 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:53:47.746 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:53:47.746 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  0d  00  00  00  06  03  03  00  63  00  64  " 
+ INFO 2024-07-18T15:53:47.747 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  0d  00  00  00  cb  03  03  c8  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:53:47.747 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:53:47.747 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  13 , errors =  0 
+ INFO 2024-07-18T15:53:49.732 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:53:49.733 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:53:49.733 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:53:49.733 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  0e  00  00  00  06  01  03  00  63  00  64  " 
+ INFO 2024-07-18T15:53:49.734 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  0e  00  00  00  cb  01  03  c8  00  0a  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:53:49.734 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:53:49.735 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  14 , errors =  0 
+ INFO 2024-07-18T15:53:51.526 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:53:51.526 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:53:51.526 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:53:51.527 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  0f  00  00  00  06  02  03  00  63  00  64  " 
+ INFO 2024-07-18T15:53:51.528 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  0f  00  00  00  cb  02  03  c8  00  0a  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:53:51.528 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:53:51.528 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  15 , errors =  0 
+ INFO 2024-07-18T15:53:53.346 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:53:53.347 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:53:53.347 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:53:53.347 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  10  00  00  00  06  03  03  00  63  00  64  " 
+ INFO 2024-07-18T15:53:53.348 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  10  00  00  00  cb  03  03  c8  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:53:53.348 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:53:53.349 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  16 , errors =  0 
+ INFO 2024-07-18T15:53:55.345 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:53:55.345 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:53:55.345 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:53:55.345 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  11  00  00  00  06  04  03  00  63  00  64  " 
+ INFO 2024-07-18T15:53:55.346 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  11  00  00  00  cb  04  03  c8  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:53:55.347 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:53:55.347 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  17 , errors =  0 
+ INFO 2024-07-18T15:53:57.085 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:53:57.085 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:53:57.085 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:53:57.085 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  12  00  00  00  06  05  03  00  63  00  64  " 
+ INFO 2024-07-18T15:53:57.085 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  12  00  00  00  cb  05  03  c8  00  00  01  f4  00  c8  0b  b8  01  90  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:53:57.085 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:53:57.086 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  18 , errors =  0 
+ INFO 2024-07-18T15:56:34.169 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:56:34.170 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:56:34.170 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:56:34.170 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  13  00  00  00  06  02  03  00  63  00  64  " 
+ INFO 2024-07-18T15:56:34.170 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  -1 
+ERROR 2024-07-18T15:56:34.170 ..\qModMaster\src\modbusadapter.cpp @ 245 Modbus Read Data failed.  "System exception. [No error]" 
+ INFO 2024-07-18T15:56:34.172 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  19 , errors =  1 
+ INFO 2024-07-18T15:56:34.970 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:56:34.971 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:56:34.971 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:56:34.971 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  14  00  00  00  06  02  03  00  63  00  64  " 
+ INFO 2024-07-18T15:56:34.971 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  -1 
+ERROR 2024-07-18T15:56:34.971 ..\qModMaster\src\modbusadapter.cpp @ 245 Modbus Read Data failed.  "System exception. [No error]" 
+ INFO 2024-07-18T15:56:34.973 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  20 , errors =  2 
+ INFO 2024-07-18T15:56:35.518 ..\qModMaster\src\mainwindow.cpp @ 506 Modbus Connect. Value =  false 
+ INFO 2024-07-18T15:56:35.518 ..\qModMaster\src\modbusadapter.cpp @ 134 Modbus disconnected 
+ INFO 2024-07-18T15:56:35.519 ..\qModMaster\src\mainwindow.cpp @ 305 Disconnected  
+ INFO 2024-07-18T15:56:35.519 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  0 , errors =  0 
+ INFO 2024-07-18T15:56:35.527 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  0 , errors =  0 
+ INFO 2024-07-18T15:56:35.772 ..\qModMaster\src\mainwindow.cpp @ 506 Modbus Connect. Value =  true 
+ INFO 2024-07-18T15:56:35.773 ..\qModMaster\src\modbusadapter.cpp @ 134 Modbus disconnected 
+ INFO 2024-07-18T15:56:35.773 ..\qModMaster\src\modbusadapter.cpp @ 80 Modbus Connect TCP 
+ INFO 2024-07-18T15:56:35.773 ..\qModMaster\src\modbusadapter.cpp @ 83 "Connecting to IP : 127.0.0.1:\u00DE" 
+ INFO 2024-07-18T15:56:35.773 ..\qModMaster\src\modbusadapter.cpp @ 93 Connecting to IP :  "127.0.0.1" : 1502 
+ INFO 2024-07-18T15:56:35.784 ..\qModMaster\src\modbusadapter.cpp @ 118 "Connecting to IP : 127.0.0.1:\u00DEOK" 
+ INFO 2024-07-18T15:56:35.790 ..\qModMaster\src\mainwindow.cpp @ 301 Connected  
+ INFO 2024-07-18T15:56:35.790 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  0 , errors =  0 
+ INFO 2024-07-18T15:56:35.795 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  0 , errors =  0 
+ INFO 2024-07-18T15:56:36.240 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:56:36.240 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:56:36.241 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:56:36.241 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  01  00  00  00  06  02  03  00  63  00  64  " 
+ INFO 2024-07-18T15:56:36.242 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  01  00  00  00  cb  02  03  c8  00  00  00  14  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:56:36.242 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:56:36.243 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  1 , errors =  0 
+ INFO 2024-07-18T15:56:38.708 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:56:38.709 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:56:38.709 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:56:38.709 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  02  00  00  00  06  01  03  00  63  00  64  " 
+ INFO 2024-07-18T15:56:38.710 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  02  00  00  00  cb  01  03  c8  00  00  00  14  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:56:38.711 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:56:38.711 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  2 , errors =  0 
+ INFO 2024-07-18T15:56:41.112 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:56:41.112 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:56:41.112 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:56:41.112 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  03  00  00  00  06  03  03  00  63  00  64  " 
+ INFO 2024-07-18T15:56:41.113 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  03  00  00  00  cb  03  03  c8  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:56:41.113 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:56:41.113 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  3 , errors =  0 
+ INFO 2024-07-18T15:56:42.834 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:56:42.834 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:56:42.834 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:56:42.834 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  04  00  00  00  06  04  03  00  63  00  64  " 
+ INFO 2024-07-18T15:56:42.835 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  04  00  00  00  cb  04  03  c8  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:56:42.836 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:56:42.836 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  4 , errors =  0 
+ INFO 2024-07-18T15:56:44.162 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:56:44.163 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:56:44.163 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:56:44.163 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  05  00  00  00  06  05  03  00  63  00  64  " 
+ INFO 2024-07-18T15:56:44.164 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  05  00  00  00  cb  05  03  c8  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:56:44.164 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:56:44.164 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  5 , errors =  0 
+ INFO 2024-07-18T15:56:46.375 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:56:46.376 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:56:46.376 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:56:46.376 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  06  00  00  00  06  06  03  00  63  00  64  " 
+ INFO 2024-07-18T15:56:46.377 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  06  00  00  00  cb  06  03  c8  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:56:46.378 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:56:46.378 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  6 , errors =  0 
+ INFO 2024-07-18T15:56:48.393 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  11 
+ INFO 2024-07-18T15:56:48.394 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  3 
+ INFO 2024-07-18T15:56:48.394 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-18T15:56:48.394 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  07  00  00  00  06  07  03  00  63  00  64  " 
+ INFO 2024-07-18T15:56:48.395 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  07  00  00  00  cb  07  03  c8  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  " 
+ INFO 2024-07-18T15:56:48.395 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  100 
+ INFO 2024-07-18T15:56:48.395 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  7 , errors =  0 
+ INFO 2024-07-23T09:41:16.804 ..\qModMaster\src\registersmodel.cpp @ 202 Registers Model Cleared 
+ INFO 2024-07-23T09:41:17.278 ..\qModMaster\src\mainwindow.cpp @ 193 Function Code changed. Index =  0 
+ INFO 2024-07-23T09:41:17.278 ..\qModMaster\src\registersmodel.cpp @ 224 Registers Model Is16Bit =  false 
+ INFO 2024-07-23T09:41:17.278 ..\qModMaster\src\mainwindow.cpp @ 411 Add Items. Function Code =  "1" 
+ INFO 2024-07-23T09:41:17.278 ..\qModMaster\src\registersmodel.cpp @ 28 Registers Model Address =  0  , noOfItems =  1  , offset =  0  , first row =  0  , last row =  0 
+ INFO 2024-07-23T09:41:17.278 ..\qModMaster\src\registersmodel.cpp @ 202 Registers Model Cleared 
+ INFO 2024-07-23T09:41:17.279 ..\qModMaster\src\registersmodel.cpp @ 212 Registers Model set base =  10 
+ INFO 2024-07-23T09:41:17.279 ..\qModMaster\src\registersmodel.cpp @ 170 Registers Model changed base from  7602291  to  10 
+ INFO 2024-07-23T09:41:17.279 ..\qModMaster\src\mainwindow.cpp @ 99 Start Program 
+ INFO 2024-07-23T09:41:43.656 ..\qModMaster\src\registersmodel.cpp @ 202 Registers Model Cleared 
+ INFO 2024-07-23T09:41:43.687 ..\qModMaster\src\mainwindow.cpp @ 193 Function Code changed. Index =  0 
+ INFO 2024-07-23T09:41:43.687 ..\qModMaster\src\registersmodel.cpp @ 224 Registers Model Is16Bit =  false 
+ INFO 2024-07-23T09:41:43.687 ..\qModMaster\src\mainwindow.cpp @ 411 Add Items. Function Code =  "1" 
+ INFO 2024-07-23T09:41:43.687 ..\qModMaster\src\registersmodel.cpp @ 28 Registers Model Address =  0  , noOfItems =  1  , offset =  0  , first row =  0  , last row =  0 
+ INFO 2024-07-23T09:41:43.687 ..\qModMaster\src\registersmodel.cpp @ 202 Registers Model Cleared 
+ INFO 2024-07-23T09:41:43.688 ..\qModMaster\src\registersmodel.cpp @ 212 Registers Model set base =  10 
+ INFO 2024-07-23T09:41:43.688 ..\qModMaster\src\registersmodel.cpp @ 170 Registers Model changed base from  7602291  to  10 
+ INFO 2024-07-23T09:41:43.688 ..\qModMaster\src\mainwindow.cpp @ 99 Start Program 
+ INFO 2024-07-23T11:12:07.470 ..\qModMaster\src\registersmodel.cpp @ 202 Registers Model Cleared 
+ INFO 2024-07-23T11:12:07.566 ..\qModMaster\src\mainwindow.cpp @ 193 Function Code changed. Index =  0 
+ INFO 2024-07-23T11:12:07.567 ..\qModMaster\src\registersmodel.cpp @ 224 Registers Model Is16Bit =  false 
+ INFO 2024-07-23T11:12:07.567 ..\qModMaster\src\mainwindow.cpp @ 411 Add Items. Function Code =  "1" 
+ INFO 2024-07-23T11:12:07.567 ..\qModMaster\src\registersmodel.cpp @ 28 Registers Model Address =  0  , noOfItems =  1  , offset =  0  , first row =  0  , last row =  0 
+ INFO 2024-07-23T11:12:07.567 ..\qModMaster\src\registersmodel.cpp @ 202 Registers Model Cleared 
+ INFO 2024-07-23T11:12:07.567 ..\qModMaster\src\registersmodel.cpp @ 212 Registers Model set base =  10 
+ INFO 2024-07-23T11:12:07.567 ..\qModMaster\src\registersmodel.cpp @ 170 Registers Model changed base from  7602291  to  10 
+ INFO 2024-07-23T11:12:07.568 ..\qModMaster\src\mainwindow.cpp @ 99 Start Program 
+ INFO 2024-07-23T11:12:29.181 ..\qModMaster\src\mainwindow.cpp @ 175 Modbus Mode changed. Index =  1 
+ INFO 2024-07-23T11:12:33.477 ..\qModMaster\src\mainwindow.cpp @ 506 Modbus Connect. Value =  true 
+ INFO 2024-07-23T11:12:33.477 ..\qModMaster\src\modbusadapter.cpp @ 134 Modbus disconnected 
+ INFO 2024-07-23T11:12:33.478 ..\qModMaster\src\modbusadapter.cpp @ 80 Modbus Connect TCP 
+ INFO 2024-07-23T11:12:33.478 ..\qModMaster\src\modbusadapter.cpp @ 83 "Connecting to IP : 127.0.0.1:\u00DE" 
+ INFO 2024-07-23T11:12:33.478 ..\qModMaster\src\modbusadapter.cpp @ 93 Connecting to IP :  "127.0.0.1" : 1502 
+ERROR 2024-07-23T11:12:33.990 ..\qModMaster\src\modbusadapter.cpp @ 105 Connection to IP :  "127.0.0.1" : 1502 ...failed. Could not connect to TCP port 
+ INFO 2024-07-23T11:12:33.991 ..\qModMaster\src\mainwindow.cpp @ 506 Modbus Connect. Value =  false 
+ INFO 2024-07-23T11:12:33.991 ..\qModMaster\src\modbusadapter.cpp @ 134 Modbus disconnected 
+ INFO 2024-07-23T11:12:33.991 ..\qModMaster\src\mainwindow.cpp @ 305 Disconnected  
+ INFO 2024-07-23T11:12:33.991 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  0 , errors =  0 
+ INFO 2024-07-23T11:12:34.005 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  0 , errors =  0 
+ INFO 2024-07-23T11:12:34.005 ..\qModMaster\src\mainwindow.cpp @ 301 Connected  
+ INFO 2024-07-23T11:12:34.005 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  0 , errors =  0 
+ INFO 2024-07-23T11:12:34.005 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  0 , errors =  0 
+ INFO 2024-07-23T11:12:39.546 ..\qModMaster\src\mainwindow.cpp @ 118 RTU settings changes accepted  
+ INFO 2024-07-23T11:12:41.179 ..\qModMaster\src\mainwindow.cpp @ 506 Modbus Connect. Value =  true 
+ INFO 2024-07-23T11:12:41.179 ..\qModMaster\src\modbusadapter.cpp @ 134 Modbus disconnected 
+ INFO 2024-07-23T11:12:41.180 ..\qModMaster\src\modbusadapter.cpp @ 80 Modbus Connect TCP 
+ INFO 2024-07-23T11:12:41.180 ..\qModMaster\src\modbusadapter.cpp @ 83 "Connecting to IP : 127.0.0.1:\u00DE" 
+ INFO 2024-07-23T11:12:41.180 ..\qModMaster\src\modbusadapter.cpp @ 93 Connecting to IP :  "127.0.0.1" : 1502 
+ERROR 2024-07-23T11:12:41.684 ..\qModMaster\src\modbusadapter.cpp @ 105 Connection to IP :  "127.0.0.1" : 1502 ...failed. Could not connect to TCP port 
+ INFO 2024-07-23T11:12:41.684 ..\qModMaster\src\mainwindow.cpp @ 506 Modbus Connect. Value =  false 
+ INFO 2024-07-23T11:12:41.684 ..\qModMaster\src\modbusadapter.cpp @ 134 Modbus disconnected 
+ INFO 2024-07-23T11:12:41.685 ..\qModMaster\src\mainwindow.cpp @ 305 Disconnected  
+ INFO 2024-07-23T11:12:41.685 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  0 , errors =  0 
+ INFO 2024-07-23T11:12:41.685 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  0 , errors =  0 
+ INFO 2024-07-23T11:12:41.685 ..\qModMaster\src\mainwindow.cpp @ 301 Connected  
+ INFO 2024-07-23T11:12:41.686 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  0 , errors =  0 
+ INFO 2024-07-23T11:12:41.686 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  0 , errors =  0 
+ INFO 2024-07-23T11:12:45.068 ..\qModMaster\src\mainwindow.cpp @ 133 TCP settings changes accepted  
+ INFO 2024-07-23T11:12:46.194 ..\qModMaster\src\mainwindow.cpp @ 506 Modbus Connect. Value =  true 
+ INFO 2024-07-23T11:12:46.194 ..\qModMaster\src\modbusadapter.cpp @ 134 Modbus disconnected 
+ INFO 2024-07-23T11:12:46.194 ..\qModMaster\src\modbusadapter.cpp @ 80 Modbus Connect TCP 
+ INFO 2024-07-23T11:12:46.194 ..\qModMaster\src\modbusadapter.cpp @ 83 "Connecting to IP : 127.0.0.1:\u00F6" 
+ INFO 2024-07-23T11:12:46.194 ..\qModMaster\src\modbusadapter.cpp @ 93 Connecting to IP :  "127.0.0.1" : 502 
+ INFO 2024-07-23T11:12:46.205 ..\qModMaster\src\modbusadapter.cpp @ 118 "Connecting to IP : 127.0.0.1:\u00F6OK" 
+ INFO 2024-07-23T11:12:46.205 ..\qModMaster\src\mainwindow.cpp @ 301 Connected  
+ INFO 2024-07-23T11:12:46.205 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  0 , errors =  0 
+ INFO 2024-07-23T11:12:46.205 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  0 , errors =  0 
+ INFO 2024-07-23T11:12:55.267 ..\qModMaster\src\mainwindow.cpp @ 360 No Of Regs changed. Value =  10 
+ INFO 2024-07-23T11:12:55.267 ..\qModMaster\src\mainwindow.cpp @ 411 Add Items. Function Code =  "1" 
+ INFO 2024-07-23T11:12:55.267 ..\qModMaster\src\registersmodel.cpp @ 28 Registers Model Address =  0  , noOfItems =  10  , offset =  0  , first row =  0  , last row =  0 
+ INFO 2024-07-23T11:12:55.267 ..\qModMaster\src\registersmodel.cpp @ 202 Registers Model Cleared 
+ INFO 2024-07-23T11:12:55.269 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  0 , errors =  0 
+ INFO 2024-07-23T11:12:56.860 ..\qModMaster\src\mainwindow.cpp @ 436 Request transaction. No or registers =  1 
+ INFO 2024-07-23T11:12:56.861 ..\qModMaster\src\modbusadapter.cpp @ 159 Modbus Transaction. Function Code =  1 
+ INFO 2024-07-23T11:12:56.862 ..\qModMaster\src\modbusadapter.cpp @ 188 Modbus Read Data  
+ INFO 2024-07-23T11:12:56.862 ..\qModMaster\src\modbusadapter.cpp @ 358 Tx Data :  "00  01  00  00  00  06  01  01  00  00  00  0a  " 
+ INFO 2024-07-23T11:12:56.862 ..\qModMaster\src\rawdatamodel.cpp @ 17 Raw Data Model Line =  "[TCP]>Tx > 11:12:56:862 : 00  01  00  00  00  06  01  01  00  00  00  0A  "  , No of lines =  0 
+ INFO 2024-07-23T11:12:56.873 ..\qModMaster\src\modbusadapter.cpp @ 377 Rx Data :  "00  01  00  00  00  05  01  01  02  00  00  " 
+ INFO 2024-07-23T11:12:56.873 ..\qModMaster\src\rawdatamodel.cpp @ 17 Raw Data Model Line =  "[TCP]>Rx > 11:12:56:873 : 00  01  00  00  00  05  01  01  02  00  00  "  , No of lines =  1 
+ INFO 2024-07-23T11:12:56.873 ..\qModMaster\src\modbusadapter.cpp @ 224 Modbus Read Data return value =  10 
+ INFO 2024-07-23T11:12:56.874 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  1 , errors =  0 
+ INFO 2024-07-23T11:13:38.596 ..\qModMaster\src\rawdatamodel.cpp @ 29 Raw Data Model cleared 
+ INFO 2024-07-23T11:21:28.229 ..\qModMaster\src\mainwindow.cpp @ 193 Function Code changed. Index =  1 
+ INFO 2024-07-23T11:21:28.229 ..\qModMaster\src\registersmodel.cpp @ 224 Registers Model Is16Bit =  false 
+ INFO 2024-07-23T11:21:28.229 ..\qModMaster\src\mainwindow.cpp @ 411 Add Items. Function Code =  "2" 
+ INFO 2024-07-23T11:21:28.229 ..\qModMaster\src\registersmodel.cpp @ 28 Registers Model Address =  0  , noOfItems =  10  , offset =  0  , first row =  0  , last row =  0 
+ INFO 2024-07-23T11:21:28.229 ..\qModMaster\src\registersmodel.cpp @ 202 Registers Model Cleared 
+ INFO 2024-07-23T11:21:28.230 ..\qModMaster\src\mainwindow.cpp @ 543 Packets sent / received =  1 , errors =  0 
